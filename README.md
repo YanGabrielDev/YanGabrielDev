@@ -11,7 +11,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 🔭 Currently I'm working as FrontEnd developer at <a href="[https://forpeople.io/](https://forpeople.io/)" target="_blank">For People</a>
 - 🌱 currently I study and work with Nextjs and typescript.
 
-<div align="center">
+<div>
 <a target="_blank" href="https://www.linkedin.com/in/yan-gabriel-07ba581b4/">
 <img align="left" alt="LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <a/>
