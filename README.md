@@ -57,9 +57,9 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 </div>
 <div>
 
-</div>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanGabrielDev&layout=compact&theme=vision-friendly-dark" height="180" alt="ghstats"  />
+
+</div>
 </div>
 
 <!-- ---
