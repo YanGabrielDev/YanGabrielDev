@@ -22,7 +22,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 <a target="_blank" href="mailto:yangabriel2012@gmail.com">
 <img align="left" alt="Email" src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> <a/>
-</p>
+</p>&nbsp;
 
 ---
 
