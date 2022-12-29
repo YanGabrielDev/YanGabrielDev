@@ -55,7 +55,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 <img src="https://github-readme-stats.vercel.app/api?hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=Github&nbsp;Stats&username=YanGabrielDev" height="180" alt="ghstats"  />
 </div>
-<div>
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanGabrielDev&layout=compact&theme=vision-friendly-dark" height="180" alt="ghstats"  />
 
