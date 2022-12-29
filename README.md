@@ -1,6 +1,6 @@
 <p align="center"><img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" width="200"/></p>
 <p align="center">
-<div>
+<div align="center">
 <a target="_blank" href="https://www.linkedin.com/in/yan-gabriel-07ba581b4/">
 <img align="left" alt="LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <a/>
@@ -14,7 +14,9 @@
 
 </div>
 
+<div>
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+</div>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
@@ -24,7 +26,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - 🔭 Currently I'm working as FrontEnd developer at <a href="[https://forpeople.io/](https://forpeople.io/)" target="_blank">For People</a>
 - 🌱 currently I study and work with Nextjs and typescript.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
 
 ---
 
@@ -50,7 +51,9 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanGabrielDev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
+<img src="https://github-readme-stats.vercel.app/api?hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=Github&nbsp;Stats&username=Kentakoong&safdsaf=adsfsaf" height="150" alt="ghstats"  />
+
+<!-- ---
 
  <div>
   <a href="https://github.com/YanGabrielDev" align="center" >
@@ -58,4 +61,4 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanGabrielDev&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
-->
+-> -->
