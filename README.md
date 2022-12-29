@@ -1,5 +1,4 @@
 <p align="center"><img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" width="250"/></p>
-<p align="center">
 <div align="center">
 <a target="_blank" href="https://www.linkedin.com/in/yan-gabriel-07ba581b4/">
 <img align="left" alt="LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
