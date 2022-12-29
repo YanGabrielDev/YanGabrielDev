@@ -51,7 +51,9 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanGabrielDev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=Github&nbsp;Stats&username=Kentakoong&safdsaf=adsfsaf" height="150" alt="ghstats"  />
+[![Top Langs](https://github-readme-stats.vercel.app/api?hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=Github Stats =YanGabrielDev =adsfsaf)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=Github&nbsp;Stats&username=Kentakoong&safdsaf=adsfsaf" height="150" alt="ghstats"  /> -->
 
 <!-- ---
 
