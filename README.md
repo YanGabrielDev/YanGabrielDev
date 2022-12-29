@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" width="200"/></p>
+<p align="center"><img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" width="250"/></p>
 <p align="center">
 <div align="center">
 <a target="_blank" href="https://www.linkedin.com/in/yan-gabriel-07ba581b4/">
@@ -14,11 +14,9 @@
 
 </div>
 
-<div>
+<!-- <div>
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-</div>
-
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+</div> -->
 
 ### :woman_technologist: &nbsp;About Me :
 
@@ -28,6 +26,8 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 🌱 currently I study and work with Nextjs and typescript.
 
 ---
+
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 ### 🛠 &nbsp;Languages and Tools :
 
@@ -52,18 +52,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanGabrielDev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 <div align="left">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanGabrielDev&layout=compact&theme=vision-friendly-dark" height="180" alt="ghstats"  />&nbsp;
 <img src="https://github-readme-stats.vercel.app/api?hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=Github&nbsp;Stats&username=YanGabrielDev" height="180" alt="ghstats"  />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanGabrielDev&layout=compact&theme=vision-friendly-dark" height="180" alt="ghstats"  />
-
 </div>
-
-<!-- ---
-
- <div>
-  <a href="https://github.com/YanGabrielDev" align="center" >
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=YanGabrielDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanGabrielDev&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
-
--> -->
