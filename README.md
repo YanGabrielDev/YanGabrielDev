@@ -18,6 +18,8 @@
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 </div> -->
 
+---
+
 <p align="center">
 
 ### :woman_technologist: &nbsp;About Me :
@@ -26,8 +28,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - 🔭 Currently I'm working as FrontEnd developer at <a href="[https://forpeople.io/](https://forpeople.io/)" target="_blank">For People</a>
 - 🌱 currently I study and work with Nextjs and typescript.
-
----
 
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  />
 </p>
