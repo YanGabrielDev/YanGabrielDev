@@ -8,7 +8,7 @@
 
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brasil.
 
-- 🔭 Currently I'm working as FrontEnd developer at <a href="[https://forpeople.io/](https://forpeople.io/)" target="_blank">For People</a>
+- 🔭 Currently I'm working as FrontEnd developer at <a href="[https://forpeople.io/](https://forpeople.io/)" target="_blank">Cinnecta</a>
 - 🌱 currently I study and work with Nextjs and typescript.
 <p>
 
